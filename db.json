@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "text": "clean house",
+      "isCompleted": true,
+      "id": "ebc3"
+    },
+    {
+      "text": "feed the dog",
+      "isCompleted": true,
+      "id": "78bc"
+    },
+    {
+      "text": "buy some groseries",
+      "isCompleted": true,
+      "id": "1705"
+    },
+    {
+      "text": "sex with the girlfriend",
+      "isCompleted": false,
+      "id": "be9f"
+    },
+    {
+      "text": "wach car",
+      "isCompleted": false,
+      "id": "0731"
+    },
+    {
+      "text": "watch movie",
+      "isCompleted": false,
+      "id": "cc57"
+    }
+  ]
+}
